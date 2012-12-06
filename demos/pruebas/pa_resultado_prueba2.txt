@@ -1,0 +1,38 @@
+Connecting to Fledge session "prueba2"... connected.
+LCD: on
+System: first idle
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+System: exit

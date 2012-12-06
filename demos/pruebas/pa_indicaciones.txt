@@ -1,0 +1,13 @@
+Pause(90) 
+BatteryLevel(70)
+Pause(90) 
+RemoteCallCreation("555-1234") 
+Pause(2) 
+ThumbwheelPress 
+ThumbwheelRelease
+Pause(10) 
+KeyPress(ESCAPE) 
+Pause(2) 
+KeyRelease(ESCAPE)
+Kill
+Exit

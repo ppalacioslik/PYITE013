@@ -1,0 +1,19 @@
+Connecting to Fledge session "prueba1"... connected.
+LCD: on
+System: first idle
+LCD: on
+LCD: on
+LCD: on
+LCD: on
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+LED: on (0x003f0000)
+LED: off
+Process killed
+Disconnected

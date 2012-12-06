@@ -1,0 +1,3 @@
+cd C:\Program Files (x86)\Research In Motion\BlackBerry Smartphone Simulators 6.0.0\6.0.0.141 (9800) 
+start fledge.exe /handheld=9800 /session=prueba2
+FledgeController.exe /session=prueba2 < "C:\Users\Christopher\Google Drive\UPC\UPC 2012 - 02\tp2\bb - pruebas automatizadas\pa_indicaciones.txt" > "C:\Users\Christopher\Google Drive\UPC\UPC 2012 - 02\tp2\bb - pruebas automatizadas\pa_resultado_prueba2.txt"

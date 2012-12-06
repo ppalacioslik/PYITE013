@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="CreacionFormularios">
+		<name >
+			
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[4.6.1)">
+			<directory >
+				4.6.1
+			</directory>
+			<files >
+				CreacionFormularios.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

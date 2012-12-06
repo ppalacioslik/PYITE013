@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: CreacionFormularios
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 22481
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1354818041
+MIDlet-Jar-URL: CreacionFormularios.jar
+RIM-COD-URL: CreacionFormularios.cod
+RIM-COD-SHA1: ca da f6 21 88 fc df 28 49 ca 60 06 ca 9d 4b 2a cf d6 91 6c
+RIM-COD-Size: 11008
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: CreacionFormularios
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
